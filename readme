@@ -1,0 +1,8 @@
+echo "# NiMoNa-Klimawandel-PP" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ppiec07/NiMoNa-Klimawandel-PP.git
+git push -u origin master
+                
+    
